@@ -1,4 +1,6 @@
 🌱 KrushiMitra AI – Intelligent Farming Assistant
+
+
 📌 About the Project
 KrushiMitra AI is a software-only smart farming platform designed to support Indian farmers with data-driven farming decisions.
 The platform aims to recommend suitable crops, detect crop diseases from leaf images, and predict crop yield using machine learning. It is designed to help farmers make informed decisions and improve farm productivity without requiring IoT devices or additional hardware.
